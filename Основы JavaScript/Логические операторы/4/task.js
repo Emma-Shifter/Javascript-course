@@ -1,0 +1,1 @@
+alert( alert(1) && alert(2) ); //диалоговое окно с 1, потом undefined
